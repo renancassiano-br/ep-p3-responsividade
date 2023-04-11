@@ -73,3 +73,15 @@ ul li span {
   line-height: 8rem;
   letter-spacing: -2px;
 }
+@media (min-width: 40em) {
+  main {
+    max-width: 110rem;
+    display: flex;
+    gap: 11.5rem;
+    margin: 0 auto;
+  }
+
+  .info {
+    max-width: 48rem;
+  }
+}
