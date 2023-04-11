@@ -3,3 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  /* Deixar a fonte em 10px com base no padrão ded 16px */
+  font-size: 62.5%; 
+}
+
+body {
+  font-size: 1.6rem;
+}
