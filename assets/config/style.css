@@ -49,6 +49,10 @@ p {
 a {
   text-decoration: none;
 }
+a:hover {
+  color: #7158EF;
+  font-weight: bold;
+}
 
 ul{
   list-style: none;
